@@ -27,8 +27,11 @@ git clone https://github.com/your-username/book-review-app.git
 cd book-review-app
 
 cd book-review-backend
+
 npm install
+
 create a .env file with your MongoDB URI:MONGO_URI=mongodb://localhost:27017/bookreviews
+
 npm start
 
 cd book-review-frontend
